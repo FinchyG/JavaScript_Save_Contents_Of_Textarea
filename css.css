@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.1em rgb(65, 67, 71);
+    padding-top: 0.5em;
+}
+
+div {
+    padding: 0em 4em;
+    margin-bottom: 1em;
+}
+
+button {
+    display: block;
+    width: 5em;
+    font-weight: bold;
+    border: 0.2em ridge rgb(131, 140, 142);
+    border-radius: 0.2em;
+    margin: auto;
+}
+
+textarea {
+    border-radius: 0.2rem;
+}
